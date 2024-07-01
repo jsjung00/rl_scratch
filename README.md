@@ -1,1 +1,2 @@
-# rl_scratch
+# Building popular RL algorithms from scratch!
+
